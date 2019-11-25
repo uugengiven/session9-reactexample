@@ -1,0 +1,11 @@
+.Card {
+    border-radius: .25em;
+    box-shadow: 2px 2px 4px #333;
+    background-color: white;
+    margin: 2em;
+    padding: 1.5em;
+  }
+  
+  h2 {
+    color: #ccc;
+  }
